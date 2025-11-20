@@ -17,3 +17,4 @@ The selected theme is saved using **LocalStorage**, so your preferred mode stays
 - JavaScript
 
 ## Demo
+https://wasim2934.github.io/theme-toggle/
