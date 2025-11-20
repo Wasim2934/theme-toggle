@@ -1,0 +1,19 @@
+ body {
+     transition: 0.3s;
+     font-family: sans-serif, Arial;
+     text-align: center;
+     padding-top: 50px;
+ }
+
+ #toggleBtn {
+     padding: 10px 20px;
+     font-size: 16px;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+ }
+
+ .dark {
+     background: #111;
+     color: #fff;
+ }
