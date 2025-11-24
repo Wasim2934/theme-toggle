@@ -3,7 +3,7 @@
 A simple and clean Dark/Light Theme Toggle made using **HTML, CSS, and JavaScript**.  
 The selected theme is saved using **LocalStorage**, so your preferred mode stays the same even after refresh or reopening the page.
 
-
+## Demo - https://wasim2934.github.io/theme-toggle/
 
 ##  Features
 -  Dark & Light Mode toggle  
@@ -16,5 +16,3 @@ The selected theme is saved using **LocalStorage**, so your preferred mode stays
 - CSS
 - JavaScript
 
-## Demo
-https://wasim2934.github.io/theme-toggle/
